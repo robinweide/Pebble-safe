@@ -42,11 +42,11 @@ Then, run the commands below to install the theme.
 
 ``` r
 # Dark variant
-rstudioapi::addTheme("https://github.com/DesiQuintans/Pebble-safe/releases/download/1.0.0/Pebble-Safe_Dark.rstheme",
+rstudioapi::addTheme("https://github.com/robinweide/Pebble-safe/releases/download/1.0.0/Pebble-Safe_Dark.rstheme",
 apply = TRUE, force = TRUE)
 
 # Light variant:
-rstudioapi::addTheme("https://github.com/DesiQuintans/Pebble-safe/releases/download/1.0.0/Pebble-Safe_Light.rstheme",
+rstudioapi::addTheme("https://github.com/robinweide/Pebble-safe/releases/download/1.0.0/Pebble-Safe_Light.rstheme",
 apply = TRUE, force = TRUE)
 ```
 
