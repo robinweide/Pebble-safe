@@ -42,12 +42,12 @@ Then, run the commands below to install the theme.
 
 ``` r
 # Dark variant
-rstudioapi::addTheme("https://github.com/robinweide/Pebble-safe/releases/download/1.0.0/Pebble-Safe_Dark.rstheme",
-apply = TRUE, force = TRUE)
+rstudioapi::addTheme("https://raw.githubusercontent.com/robinweide/Pebble-safe/master/Pebble-Safe_Dark.rstheme",
+                     apply = TRUE, force = TRUE)
 
 # Light variant:
-rstudioapi::addTheme("https://github.com/robinweide/Pebble-safe/releases/download/1.0.0/Pebble-Safe_Light.rstheme",
-apply = TRUE, force = TRUE)
+rstudioapi::addTheme("https://raw.githubusercontent.com/robinweide/Pebble-safe/master/Pebble-Safe_Light.rstheme",
+                     apply = TRUE, force = TRUE)
 ```
 
 You can change the active theme at any time by going to (Tools → Global
